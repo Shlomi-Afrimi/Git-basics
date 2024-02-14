@@ -5,6 +5,7 @@ body{
 }
 
 .ball {
+    
     display: flex;
     border-radius: 50%;
     height: 100px;
@@ -15,4 +16,5 @@ body{
     justify-content: center;
     font-size: 22px;
     font-weight: bold;
+    transition: 1s;
 }
